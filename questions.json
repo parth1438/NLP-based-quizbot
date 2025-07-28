@@ -1,0 +1,184 @@
+[
+  {
+    "question": "Who wrote the play 'Hamlet'?",
+    "answer": "Shakespeare",
+    "options": ["Shakespeare", "Charles Dickens", "Leo Tolstoy", "Jane Austen"],
+    "topic": "Literature"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+    "topic": "Geography"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "answer": "Oxygen",
+    "options": ["Osmium", "Oxygen", "Ozone", "Oxide"],
+    "topic": "Science"
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "answer": "Jawaharlal Nehru",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+    "topic": "History"
+  },
+  {
+    "question": "What is the value of Pi up to two decimal places?",
+    "answer": "3.14",
+    "options": ["3.14", "3.12", "3.41", "3.00"],
+    "topic": "Mathematics"
+  },
+  {
+    "question": "Which country hosted the 2024 Summer Olympics?",
+    "answer": "France",
+    "options": ["France", "Japan", "Brazil", "USA"],
+    "topic": "Current Affairs"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci",
+    "options": ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "topic": "Art & Culture"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "HyperText Transfer Protocol",
+    "options": ["HyperText Transfer Protocol", "Hyper Tool Transfer Process", "Hyperlink Transfer Protocol", "High Transfer Text Protocol"],
+    "topic": "Technology"
+  },
+  {
+    "question": "Which footballer is known as 'La Pulga'?",
+    "answer": "Lionel Messi",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Neymar", "Kylian Mbappe"],
+    "topic": "Sports"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "answer": "Seven",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "topic": "General Knowledge"
+  },
+
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "Mitochondria",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+    "topic": "Science"
+  },
+  {
+    "question": "Who wrote the novel '1984'?",
+    "answer": "George Orwell",
+    "options": ["George Orwell", "Aldous Huxley", "F. Scott Fitzgerald", "Ernest Hemingway"],
+    "topic": "Literature"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "1945",
+    "options": ["1939", "1940", "1945", "1950"],
+    "topic": "History"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "answer": "8",
+    "options": ["6", "7", "8", "9"],
+    "topic": "Mathematics"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "Ottawa",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "topic": "Geography"
+  },
+  {
+    "question": "Which Indian cricketer is known as the 'God of Cricket'?",
+    "answer": "Sachin Tendulkar",
+    "options": ["Virat Kohli", "MS Dhoni", "Kapil Dev", "Sachin Tendulkar"],
+    "topic": "Sports"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "answer": "Saturn",
+    "options": ["Jupiter", "Saturn", "Mars", "Neptune"],
+    "topic": "Science"
+  },
+  {
+    "question": "Who is the CEO of Tesla?",
+    "answer": "Elon Musk",
+    "options": ["Tim Cook", "Sundar Pichai", "Jeff Bezos", "Elon Musk"],
+    "topic": "Technology"
+  },
+  {
+    "question": "Which festival is known as the festival of lights?",
+    "answer": "Diwali",
+    "options": ["Holi", "Eid", "Diwali", "Christmas"],
+    "topic": "Art & Culture"
+  },
+  {
+    "question": "Who is the current President of the USA (2025)?",
+    "answer": "Joe Biden",
+    "options": ["Donald Trump", "Joe Biden", "Barack Obama", "Kamala Harris"],
+    "topic": "Current Affairs"
+  },
+
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "answer": "0",
+    "options": ["-1", "0", "32", "100"],
+    "topic": "Science"
+  },
+  {
+    "question": "Which author wrote 'Pride and Prejudice'?",
+    "answer": "Jane Austen",
+    "options": ["Emily Brontë", "Jane Austen", "Charlotte Brontë", "Virginia Woolf"],
+    "topic": "Literature"
+  },
+  {
+    "question": "Which Indian city is called the 'Pink City'?",
+    "answer": "Jaipur",
+    "options": ["Udaipur", "Jodhpur", "Jaipur", "Delhi"],
+    "topic": "Geography"
+  },
+  {
+    "question": "In which year did India become a republic?",
+    "answer": "1950",
+    "options": ["1947", "1950", "1952", "1962"],
+    "topic": "History"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "answer": "30",
+    "options": ["20", "25", "30", "35"],
+    "topic": "Mathematics"
+  },
+  {
+    "question": "Which mobile operating system is developed by Google?",
+    "answer": "Android",
+    "options": ["iOS", "Android", "Windows", "HarmonyOS"],
+    "topic": "Technology"
+  },
+  {
+    "question": "Who won the FIFA World Cup 2022?",
+    "answer": "Argentina",
+    "options": ["France", "Germany", "Brazil", "Argentina"],
+    "topic": "Sports"
+  },
+  {
+    "question": "What does ISRO stand for?",
+    "answer": "Indian Space Research Organisation",
+    "options": ["Indian Space Resource Office", "Indian Space Research Organisation", "International Space Research Org", "Indian Scientific Research Office"],
+    "topic": "Current Affairs"
+  },
+  {
+    "question": "Which Indian festival celebrates the bond of brothers and sisters?",
+    "answer": "Rakhi",
+    "options": ["Diwali", "Holi", "Rakhi", "Navratri"],
+    "topic": "Art & Culture"
+  },
+  {
+    "question": "How many states are there in India?",
+    "answer": "28",
+    "options": ["27", "28", "29", "30"],
+    "topic": "General Knowledge"
+  }
+]
